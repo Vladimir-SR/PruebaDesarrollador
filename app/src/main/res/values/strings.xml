@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaDesarrollador</string>
+    <string name="inicio_de_sesion">Inicio de sesion</string>
+    <string name="nombre_usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="txt_btn_ingresar">Ingresar</string>
+</resources>
